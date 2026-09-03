@@ -1,0 +1,6 @@
+{
+  "name": "NyayaMithra",
+  "description": "AI-powered Indian legal information and legal-document drafting system.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

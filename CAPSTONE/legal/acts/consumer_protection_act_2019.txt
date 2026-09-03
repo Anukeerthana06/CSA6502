@@ -1,0 +1,39 @@
+THE CONSUMER PROTECTION ACT, 2019
+[Act No. 35 of 2019]
+
+CHAPTER I - PRELIMINARY
+Section 1. Short title, extent and commencement.
+(1) This Act may be called the Consumer Protection Act, 2019.
+(2) It extends to the whole of India.
+
+Section 2. Definitions.
+In this Act, unless the context otherwise requires,—
+(7) "consumer" means any person who—
+(i) buys any goods for a consideration which has been paid or promised or partly paid and partly promised;
+(ii) hires or avails of any service for a consideration.
+(10) "defect" means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force or under any contract, express or implied.
+(11) "deficiency" means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force.
+(47) "unfair trade practice" means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice.
+
+CHAPTER IV - CONSUMER DISPUTES REDRESSAL COMMISSION
+Section 34. Jurisdiction of District Commission.
+(1) Subject to the other provisions of this Act, the District Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed one crore rupees.
+
+Section 35. Manner in which complaint shall be made.
+(1) A complaint, in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided, may be filed with a District Commission by the consumer to whom such goods are sold or delivered, or any recognized consumer association.
+(2) Every complaint filed shall be accompanied with such fee and in such manner as may be prescribed.
+
+Section 39. Findings of District Commission.
+(1) Where the District Commission is satisfied that the goods complained against suffer from any of the defects specified in the complaint or that any of the allegations contained in the complaint about the services or any unfair trade practice are proved, it shall issue an order to the opposite party directing him to do one or more of the following things, namely:—
+(a) to remove the defect pointed out by the appropriate laboratory from the goods in question;
+(b) to replace the goods with new goods of similar description which shall be free from any defect;
+(c) to return to the complainant the price, or, as the case may be, the charges paid by the complainant;
+(d) to pay such amount as may be awarded by it as compensation to the consumer for any loss or injury suffered by the consumer due to the negligence of the opposite party.
+
+CHAPTER VI - PRODUCT LIABILITY
+Section 84. Liability of product manufacturer.
+(1) A product manufacturer shall be liable in a product liability action, if—
+(a) the product contains a manufacturing defect; or
+(b) the product is defective in design; or
+(c) there is a deviation from manufacturing specifications; or
+(d) the product does not conform to the express warranty.
