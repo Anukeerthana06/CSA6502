@@ -1,0 +1,45 @@
+[SIMULATED / SAMPLE DOCUMENT — NOT REAL MANUFACTURER DOCUMENTATION]
+Industrial Centrifugal Pump Manual (Sample) — IndustroSense AI Knowledge Base
+
+Section 1: Overview
+This sample manual describes general maintenance guidance for
+centrifugal pumps used in industrial fluid-transfer applications. All
+values are illustrative for a laboratory demonstration.
+
+Section 2: Pump Vibration
+Pump vibration is often caused by cavitation (insufficient suction
+pressure causing vapor bubbles to collapse inside the pump), impeller
+imbalance, misalignment between pump and driver, worn bearings, or
+loose foundation bolts. Cavitation typically produces a distinctive
+rattling or "gravel" sound near the pump inlet along with vibration,
+and is often resolved by checking suction-side piping for restrictions
+or air entrainment before assuming a mechanical fault.
+
+Section 3: Seal and Bearing Lubrication
+Mechanical seals rely on a thin fluid film and proper flush/cooling
+arrangement; running a pump dry, even briefly, can damage the seal
+faces. Bearing housings should be lubricated according to the
+interval specified for the bearing type (grease or oil-lubricated),
+and lubricant should never be mixed between incompatible types without
+manufacturer guidance.
+
+Section 4: Overheating and Reduced Flow
+A pump that overheats or shows reduced output flow may be
+experiencing impeller wear, a clogged strainer or suction line,
+excessive discharge-side throttling, or entrained air in the suction
+line. Running a centrifugal pump against a closed discharge valve for
+an extended period causes rapid internal heat buildup and should be
+avoided.
+
+Section 5: Preventive Maintenance Interval
+Baseline preventive maintenance for general industrial centrifugal
+pumps in this sample knowledge base follows a 500-operating-hour
+interval: check for leaks, verify vibration levels, inspect coupling
+alignment, and confirm seal/bearing lubrication status.
+
+Section 6: Safety Notice
+Pumps handling hazardous, hot, or pressurized fluids must be
+depressurized, drained, and isolated per facility lockout/tagout
+procedure before any seal or bearing work. Do not disable pressure
+relief devices or discharge safety valves to work around a
+suspected blockage.

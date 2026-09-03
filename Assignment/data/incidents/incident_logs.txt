@@ -1,0 +1,40 @@
+[SIMULATED / SAMPLE DOCUMENT — FICTIONAL INCIDENT RECORDS FOR DEMONSTRATION ONLY]
+Sample Incident Log Excerpts — IndustroSense AI Knowledge Base
+
+Incident Record A
+Equipment: Induction motor, conveyor drive
+Reported symptom: Motor housing hot to the touch after roughly 25
+minutes of continuous run time; slight vibration noted at the
+non-drive end bearing.
+Finding: Bearing grease had degraded and partially dried out,
+increasing friction and localized heat. Root cause was an extended
+interval since the last lubrication service.
+Corrective action: Bearing re-greased per lubrication schedule; motor
+returned to normal operating temperature within one operating cycle
+after service.
+
+Incident Record B
+Equipment: Centrifugal pump, cooling water circuit
+Reported symptom: Rattling noise near the pump inlet and mild
+vibration during startup, disappearing after a few minutes of
+operation.
+Finding: Intermittent cavitation caused by a partially closed suction
+valve that had not been fully reopened after a prior isolation.
+Corrective action: Suction valve fully opened; cavitation noise did
+not recur on subsequent runs.
+
+Incident Record C
+Equipment: Induction motor, fan drive
+Reported symptom: Motor tripped on thermal overload twice in one
+week; no unusual vibration reported.
+Finding: Phase imbalance measured at the motor terminals exceeded the
+facility's sample threshold, traced to a loose terminal connection on
+one phase.
+Corrective action: Terminal connection cleaned and re-torqued to
+specification; phase currents balanced on re-test.
+
+Notice
+These incident records are entirely fictional and were created to
+populate a sample knowledge base for a Generative AI RAG
+demonstration. They do not describe real equipment, real facilities,
+or real events.

@@ -1,0 +1,51 @@
+[SIMULATED / SAMPLE DOCUMENT — NOT A REAL FACILITY SOP]
+Standard Operating Procedure: General Rotating Equipment Maintenance (Sample)
+
+1. Purpose
+This sample SOP defines the general steps for scheduled preventive
+maintenance and fault inspection of rotating equipment (motors, pumps,
+fans) in the IndustroSense AI demonstration knowledge base.
+
+2. Scope
+Applies to general-purpose induction motors and centrifugal pumps
+covered by this sample knowledge base. It is not a substitute for
+equipment-specific manufacturer instructions.
+
+3. Pre-Maintenance Safety Steps
+   3.1 Notify affected personnel and operations before starting work.
+   3.2 De-energize the equipment at the disconnect and apply
+       lockout/tagout (LOTO) per facility policy.
+   3.3 Verify zero energy state before touching any rotating or
+       electrical component.
+   3.4 Allow hot components to cool to a safe touch temperature before
+       inspection.
+   3.5 Never remove guards, disable interlocks, or bypass emergency
+       stop circuits to expedite maintenance.
+
+4. Routine Inspection Checklist (Every 500 Operating Hours, Sample Interval)
+   4.1 Visual inspection for discoloration, damage, or leaks.
+   4.2 Vibration check using a handheld vibration meter; compare to
+       baseline reading for the asset.
+   4.3 Temperature check of housing/bearing surfaces.
+   4.4 Lubrication check and top-up per lubrication schedule.
+   4.5 Check mounting bolts and coupling alignment.
+   4.6 Record all readings in the maintenance log.
+
+5. When to Escalate to Qualified Personnel
+   5.1 Any sign of electrical fault (burning smell, sparking, tripped
+       breaker that will not reset).
+   5.2 Vibration levels significantly above baseline.
+   5.3 Repeated overheating after a single maintenance cycle.
+   5.4 Any situation involving hazardous, pressurized, or energized
+       systems that the on-site technician is not certified to handle.
+
+6. Documentation
+   6.1 Every maintenance or inspection action must be logged with
+       timestamp, technician identifier, equipment ID, and findings.
+   6.2 Deviations from the standard interval must be justified and
+       recorded.
+
+7. Notice
+This is a simulated SOP created for a Generative AI capstone
+demonstration. It does not represent the maintenance policy of any
+real facility and must not be used for actual industrial operations.

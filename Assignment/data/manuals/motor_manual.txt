@@ -1,0 +1,64 @@
+[SIMULATED / SAMPLE DOCUMENT — NOT REAL MANUFACTURER DOCUMENTATION]
+Industrial Motor Maintenance Manual (Sample) — IndustroSense AI Knowledge Base
+
+Section 1: Overview
+This manual covers general maintenance guidance for standard three-phase
+induction motors used in industrial settings (pumps, fans, conveyors,
+compressors). All figures below are illustrative sample values created
+for a college laboratory demonstration and must not be used for real
+equipment decisions.
+
+Section 2: Motor Overheating
+Motor overheating is commonly associated with one or more of the
+following causes: sustained electrical overload beyond nameplate rating,
+poor ventilation or blocked cooling fins, insufficient or degraded
+lubrication in the bearings, voltage imbalance across phases, or
+prolonged operation in a high ambient-temperature environment. A motor
+that becomes noticeably hot to the touch after approximately 20 to 30
+minutes of continuous operation, especially when accompanied by a
+burning odor or discoloration of the housing, should be shut down and
+inspected before continued use. Continuing to run an overheating motor
+can accelerate insulation breakdown and lead to winding failure.
+
+Section 3: Vibration
+Excessive motor vibration typically indicates one of: rotor imbalance,
+shaft misalignment with the driven load, worn or damaged bearings, a
+loose foundation or mounting bolts, or bent shaft. Vibration combined
+with an audible grinding or rattling noise is frequently associated
+with bearing wear and should prompt a bearing inspection. Vibration
+alone, without abnormal noise or heat, may indicate a simpler
+imbalance or alignment issue that can often be corrected without
+disassembly of the motor.
+
+Section 4: Lubrication
+Motor bearings require periodic lubrication according to the
+manufacturer's schedule. Under-lubrication accelerates bearing wear
+and can contribute to both overheating and vibration. Over-lubrication
+can also cause problems, including seal damage and grease
+churning that raises bearing temperature. Always follow the specific
+lubricant type and quantity recommended for the bearing size in use.
+
+Section 5: Electrical Faults
+Common electrical faults include phase imbalance, insulation
+degradation, loose terminal connections, and winding short circuits.
+Phase imbalance greater than a few percent can cause uneven heating
+across the three windings and should be investigated with a clamp
+meter. Loose terminal connections are a frequent, easily corrected
+cause of localized heating at the terminal box.
+
+Section 6: Preventive Maintenance Interval
+Preventive maintenance for general-purpose industrial motors in this
+sample knowledge base follows a baseline interval of every 500
+operating hours, covering visual inspection, vibration check,
+temperature check, and lubrication top-up as needed. Motors in harsher
+environments (high dust, high humidity, high ambient temperature) may
+require shorter intervals as specified by the equipment-specific SOP.
+
+Section 7: Safety Notice
+Before performing any maintenance, the motor must be de-energized and
+locked out/tagged out (LOTO) according to facility procedure. Never
+bypass thermal protection devices, emergency stop circuits, or
+interlocks to keep a motor running. If a motor shows signs of a
+serious electrical fault, insulation failure, or repeated overheating,
+qualified electrical maintenance personnel must inspect it before
+restart.

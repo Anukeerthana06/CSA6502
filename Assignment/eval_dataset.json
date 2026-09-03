@@ -1,0 +1,22 @@
+[
+  {
+    "query": "Why is the motor overheating after running for 30 minutes?",
+    "relevant_source": "motor_manual.txt"
+  },
+  {
+    "query": "What causes excessive vibration in a centrifugal pump?",
+    "relevant_source": "pump_manual.txt"
+  },
+  {
+    "query": "What steps should be followed before performing maintenance on rotating equipment?",
+    "relevant_source": "maintenance_sop.txt"
+  },
+  {
+    "query": "Bearing lubrication schedule for industrial motors",
+    "relevant_source": "motor_manual.txt"
+  },
+  {
+    "query": "Example of a motor that tripped due to phase imbalance",
+    "relevant_source": "incident_logs.txt"
+  }
+]
